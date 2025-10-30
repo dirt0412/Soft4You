@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\utility\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:utility\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\utility\\datagridviewformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:utility\\datagridviewformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\models\\klientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:models\\klientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\modals\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:modals\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\data\\kliencirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:data\\kliencirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\modals\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:modals\\clienteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|d:\\c_sharp\\project1_soft4you\\simple\\project1_soft4you_simplified\\project1_soft4you\\project1_soft4you\\project1_soft4you.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DB0E0ACD-759E-48C6-B51E-2C3A65BA3153}|Project1_Soft4You.csproj|solutionrelative:project1_soft4you.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KlienciRepository.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Data\\KlienciRepository.cs",
+              "RelativeDocumentMoniker": "Data\\KlienciRepository.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Data\\KlienciRepository.cs",
+              "RelativeToolTip": "Data\\KlienciRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:22:13.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KlientDto.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Models\\KlientDto.cs",
+              "RelativeDocumentMoniker": "Models\\KlientDto.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Models\\KlientDto.cs",
+              "RelativeToolTip": "Models\\KlientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:49:14.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataGridViewFormatter.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Utility\\DataGridViewFormatter.cs",
+              "RelativeDocumentMoniker": "Utility\\DataGridViewFormatter.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Utility\\DataGridViewFormatter.cs",
+              "RelativeToolTip": "Utility\\DataGridViewFormatter.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAQwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T19:11:38.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorLogger.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Utility\\ErrorLogger.cs",
+              "RelativeDocumentMoniker": "Utility\\ErrorLogger.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Utility\\ErrorLogger.cs",
+              "RelativeToolTip": "Utility\\ErrorLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:24:18.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientEditForm.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Modals\\ClientEditForm.cs",
+              "RelativeDocumentMoniker": "Modals\\ClientEditForm.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Modals\\ClientEditForm.cs",
+              "RelativeToolTip": "Modals\\ClientEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:41:02.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Utility\\Helper.cs",
+              "RelativeDocumentMoniker": "Utility\\Helper.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Utility\\Helper.cs",
+              "RelativeToolTip": "Utility\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:14:11.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:25:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Modals\\ClientEditForm.cs",
+              "RelativeDocumentMoniker": "Modals\\ClientEditForm.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Modals\\ClientEditForm.cs [Design]",
+              "RelativeToolTip": "Modals\\ClientEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:40:17.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\Project1_Soft4You\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project1_Soft4You\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:21:05.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project1_Soft4You",
+              "DocumentMoniker": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Project1_Soft4You.csproj",
+              "RelativeDocumentMoniker": "Project1_Soft4You.csproj",
+              "ToolTip": "D:\\C_Sharp\\Project1_Soft4You\\simple\\Project1_Soft4You_simplified\\Project1_Soft4You\\Project1_Soft4You\\Project1_Soft4You.csproj",
+              "RelativeToolTip": "Project1_Soft4You.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T21:20:14.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
